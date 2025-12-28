@@ -29,19 +29,19 @@ The primary goal of this project was to engineer a scalable solution for process
 
 ## Insights & Visualizations
 
-### Daily Traffic Trends
-This chart illustrates the daily volume of sessions. Note the significant spike during the mid-month promotional events (Black Friday period).
+### Daily Visits & Daily Visits By Day
+This chart illustrates the number of daily visits. Note the significant spike during the mid-month promotional events (Black Friday period).
 
-![Daily Visits](./daily_visits_combined.png)
+![Daily Visits](Visuals/daily_visits_combined.png)
 
 ### Conversion Rate Performance
 By analyzing the ratio of purchases to visits, we can identify "high-quality" traffic days. The data reveals that the mid-month surge was accompanied by a nearly triple increase in conversion efficiency.
 
-![Conversion Rates](./conversion_rate_plot.png)
+![Conversion Rates](Visuals/daily_conversion_combined.png)
 
-### Weekly Distribution (Outlier Analysis)
-The box plots highlight the variance in traffic across different days of the week, identifying Sunday and Friday as the highest-performing periods for this dataset.
+### Daily Visitors & Daily Visitors By Day
+The plots illustrates the number of daily visitors. Here you can also see the significant spike during the mid-month promotional events (Black Friday period).
 
-![Traffic Boxplot](./visits_by_day_boxplot.png)
+![Daily Visitors](Visuals/daily_visitors_combined.png)
 
 ---
