@@ -45,3 +45,13 @@ The plots illustrates the number of daily visitors. Here you can also see the si
 ![Daily Visitors](Visuals/daily_visitors_combined.png)
 
 ---
+## Data Source & Disclaimer
+
+The dataset used in this project is available on [Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store/data).
+
+This project is created **for educational purposes only**. I do not claim ownership of the dataset.
+
+If you are the data owner and would like this dataset or project removed or modified, please reach out via an issue or message.
+
+---
+Feel free to explore the google colab notebook to see the other plots, and the cleaning process.
